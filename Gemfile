@@ -18,6 +18,7 @@ gem "require_all", "~> 3.0"
 group :development do
   gem "pry", "~> 0.14.1"
   gem "rerun"
+  gem "sqlite3"
 end
 
 
